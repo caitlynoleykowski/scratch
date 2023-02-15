@@ -10,15 +10,15 @@
 <trk><name>Simple points variation track</name>
 <trkseg>
 <trkpt lat="38.921558" lon="-120.068258><ele>1961.0</ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068259><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068260><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
-<trkpt lat="38.921558" lon="-120.068261><ele>1961.0><ele><time>2023-01-01T00:00:00Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:01Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:02Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:03Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:04Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:05Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068258><ele>1961.0><ele><time>2023-01-01T00:00:06Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068259><ele>1961.0><ele><time>2023-01-01T00:00:07Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068260><ele>1961.0><ele><time>2023-01-01T00:00:08Z</time></trkpt>
+<trkpt lat="38.921558" lon="-120.068261><ele>1961.0><ele><time>2023-01-01T00:00:09Z</time></trkpt>
 </trkseg>
 </trk>
 </gpx>
